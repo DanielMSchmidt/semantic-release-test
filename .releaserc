@@ -1,5 +1,0 @@
-{
-  "release": {
-    "branches": [{ "name": "2.0.x", "range": "2.0.x" }, { "name": "master" }]
-  }
-}
