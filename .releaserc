@@ -1,8 +1,8 @@
 {
   "release": {
     "branches": [
-      { "name": "2.0.x", "range": "2.0.x" },
-      { "name": "3.0.x", "range": "3.0.x" },
+      { "name": "2.0.x", "range": "2.0.x", "channel": "" },
+      { "name": "3.0.x", "range": "3.0.x", "channel": "" },
       { "name": "master" }
     ]
   }
