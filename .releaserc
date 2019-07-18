@@ -1,5 +1,5 @@
 {
   "release": {
-    "branches": ["+([1-9])?(.{+([1-9]),x}).x", "master"]
+    "branches": [{ "name": "2.0.x", "range": "2.0.x" }, { "name": "master" }]
   }
 }
