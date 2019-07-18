@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "semantic-release": "^15.13.18"
+    "semantic-release": "16.0.0-beta.22"
   }
 }
